@@ -2,6 +2,12 @@
 
 University of Milano-Bicocca · 2023–2025
 
+## Thesis
+
+[Design and Evaluation of Multi-Camera Multi-Object Tracking Pipelines in Calibrated Environments](https://github.com/JuliusMaliwat/msc-thesis)
+
+## Projects
+
 | Course | About |
 |---|---|
 | [Digital Signal and Image Management](./digital-signal-and-image-management) | Environmental sound classification, low-light object detection, and vehicle image retrieval. |
