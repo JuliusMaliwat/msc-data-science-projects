@@ -1,13 +1,12 @@
 # Digital Signal and Image Management
 
-**Project:** Deep Learning for Audio, Vision & Image Retrieval  
 **Grade:** 30/30 cum laude
 
 Three deep learning studies covering environmental sound classification, low-light object detection, and content-based vehicle image retrieval.
 
 ## Stack
 
-Python, Jupyter, PyTorch, TensorFlow, YOLOv8, EfficientNet, Gradio
+Python, scikit-learn, TensorFlow, PyTorch, OpenCV, librosa
 
 ## Contents
 

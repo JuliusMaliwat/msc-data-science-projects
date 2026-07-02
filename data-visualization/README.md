@@ -7,7 +7,7 @@ A visual analysis of how caffeine, alcohol, smoking, exercise, and other lifesty
 
 ## Stack
 
-Tableau, Excel
+Tableau
 
 ## Contents
 

@@ -1,13 +1,13 @@
 # Machine Learning
 
-**Project:** Smoke Signals  
+**Project:** Smoke Signals: Unveiling the Bio-Signal Indicators of Smoking Behavior in a Machine Learning Framework
 **Grade:** 30/30
 
 Classification of smoking behavior from demographic and biomedical indicators, with model comparison and feature analysis in KNIME.
 
 ## Stack
 
-KNIME, Random Forest, Gradient Boosting, Multilayer Perceptron, Logistic Regression
+KNIME
 
 ## Contents
 

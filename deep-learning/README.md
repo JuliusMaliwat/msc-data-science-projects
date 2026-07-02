@@ -1,13 +1,13 @@
 # Deep Learning
 
-**Project:** Semantic Segmentation on CamVid  
+**Project:** CamVid Dataset Segmentation with Deep Learning
 **Grade:** 30/30
 
 Semantic segmentation of urban scenes with separate models for the original 32 CamVid classes and an aggregated 11-class setting.
 
 ## Stack
 
-Python, Jupyter, TensorFlow, Keras
+Python, TensorFlow, Keras
 
 ## Contents
 

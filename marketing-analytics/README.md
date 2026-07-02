@@ -1,13 +1,12 @@
 # Marketing Analytics
 
-**Project:** Customer, Product & Feedback Analytics  
 **Grade:** 28/30
 
 An e-commerce analysis combining customer segmentation, churn prediction, market basket analysis, and sentiment modeling to support retention and cross-selling decisions.
 
 ## Stack
 
-Python, Jupyter, pandas, scikit-learn, Dask, GeoPandas, NLP
+Python, pandas, scikit-learn, GeoPandas, NLTK
 
 ## Contents
 
