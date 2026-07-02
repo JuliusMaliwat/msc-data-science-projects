@@ -1,0 +1,7 @@
+pandas
+openpyxl
+numpy
+beautifulsoup4
+requests
+selenium
+mysql-connector-python
